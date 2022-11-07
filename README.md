@@ -1,1 +1,1 @@
-# PythonAnyWhere
+# First Django project
